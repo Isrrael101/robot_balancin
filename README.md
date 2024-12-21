@@ -1,6 +1,6 @@
 # Robot Péndulo Invertido Leonel
 
-> **Programado en MicroPython**
+> **Programado en MicroPython para tarjeta de desarrollo Esp32**
 
 ---
 
