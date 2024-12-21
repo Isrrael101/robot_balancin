@@ -6,7 +6,7 @@
 
 ## 🚀 Dedicatoria
 
-Este proyecto, el **Rpbot Péndulo Invertido Leonel**, está dedicado a mi querido hijo **Leonel**. 🌟
+Este proyecto, el **Robot Péndulo Invertido Leonel**, está dedicado a mi querido hijo **Leonel**. 🌟
 
 Con este robot, quiero transmitir mi pasión por la **tecnología** 🤖 y el **conocimiento**, con la esperanza de que te inspire a **crear, explorar y aprender** sin límites. ¡Este es solo el comienzo de muchas aventuras tecnológicas que compartiremos juntos!
 
